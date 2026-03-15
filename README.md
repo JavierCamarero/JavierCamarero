@@ -110,7 +110,7 @@ Senior Full Stack Developer specialized in **Laravel** and **Vue.js**, with over
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JavierCamarero&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://gh-profile-trophy.vercel.app/?username=JavierCamarero&theme=darkhub&no-frame=true&no-bg=true)
 
 </div>
 
