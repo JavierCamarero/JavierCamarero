@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=180&section=header&text=Francisco%20Javier%20Camarero&fontColor=ffffff&fontSize=36&fontAlignY=55&desc=Senior%20Laravel%20%26%20Vue.js%20Developer&descAlignY=75&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=150&section=header&animation=fadeIn)
 
 <div align="center">
 
