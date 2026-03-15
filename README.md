@@ -6,6 +6,8 @@
 
 **8+ years** building scalable, production-grade web applications · Veracruz, México 🇲🇽 · **Open to Remote**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Laravel+%26+Vue.js+Developer;8%2B+years+of+experience;Clean+Architecture+%7C+Scalable+Systems;Open+to+Remote+Opportunities+%F0%9F%8C%90)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-camarero)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javigarcia94.jc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JavierCamarero)
@@ -106,6 +108,16 @@ Senior Full Stack Developer specialized in **Laravel** and **Vue.js**, with over
 
 ---
 
+## 📊 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierCamarero&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -134,43 +146,17 @@ Senior Full Stack Developer specialized in **Laravel** and **Vue.js**, with over
 - ✅ Migrated legacy PHP modules into structured Laravel architecture, covering **40%** of platform functionality
 - ✅ Built REST APIs adopted by **45% of distributors** for catalog and pricing synchronization
 
-<!-- ---
+---
 
-## ⚙️ Snake Setup — One-time GitHub Action
+## 😄 Dev Joke of the Day
 
-Create this file inside your profile repo to activate the snake animation:
+<div align="center">
 
-**`.github/workflows/snake.yml`**
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=0d1117&textColor=c9d1d9&aColor=58a6ff&borderColor=58a6ff)
 
-```yaml
-name: Generate Snake
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: JavierCamarero
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once the Action runs, the snake SVG will be available and render automatically in your profile. You can trigger it manually from the **Actions** tab on first run.
-
---- -->
+---
 
 <div align="center">
 
