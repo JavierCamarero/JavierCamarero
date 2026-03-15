@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=180&section=header&text=Francisco%20Javier%20Camarero&fontColor=ffffff&fontSize=36&fontAlignY=55&desc=Senior%20Laravel%20%26%20Vue.js%20Developer&descAlignY=75&descSize=18&animation=fadeIn)
+
 <div align="center">
 
 # Francisco Javier Camarero García
@@ -8,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Laravel+%26+Vue.js+Developer;8%2B+years+of+experience;Clean+Architecture+%7C+Scalable+Systems;Open+to+Remote+Opportunities+%F0%9F%8C%90)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-camarero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-camarero-garcia/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javigarcia94.jc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JavierCamarero)
 ![Profile Views](https://komarev.com/ghpvc/?username=JavierCamarero&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
@@ -148,20 +150,12 @@ Senior Full Stack Developer specialized in **Laravel** and **Vue.js**, with over
 
 ---
 
-## 😄 Dev Joke of the Day
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=0d1117&textColor=c9d1d9&aColor=58a6ff&borderColor=58a6ff)
-
-</div>
-
----
-
 <div align="center">
 
 *Currently open to remote opportunities worldwide · Let's build something great together.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-camarero)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-camarero-garcia/)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=120&section=footer&animation=fadeIn)
